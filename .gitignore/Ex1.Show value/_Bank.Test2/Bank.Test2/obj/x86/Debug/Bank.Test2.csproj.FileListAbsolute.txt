@@ -1,0 +1,24 @@
+D:\D.Bank\Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.Form1.resources
+D:\D.Bank\Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.Properties.Resources.resources
+D:\D.Bank\Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.csproj.GenerateResource.Cache
+D:\D.Bank\Bank.Test2\Bank.Test2\bin\Debug\Bank.Test2.exe
+D:\D.Bank\Bank.Test2\Bank.Test2\bin\Debug\Bank.Test2.pdb
+D:\D.Bank\Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.exe
+D:\D.Bank\Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.pdb
+D:\D.Bank\Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.csprojResolveAssemblyReference.cache
+D:\D.Bank\_Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.exe
+D:\D.Bank\_Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.pdb
+D:\D.Bank\_Bank.Test2\Bank.Test2\bin\Debug\Bank.Test2.exe
+D:\D.Bank\_Bank.Test2\Bank.Test2\bin\Debug\Bank.Test2.pdb
+D:\D.Bank\_Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.csprojResolveAssemblyReference.cache
+D:\D.Bank\_Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.Form1.resources
+D:\D.Bank\_Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.Properties.Resources.resources
+D:\D.Bank\_Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\D\D.Bank\_Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.exe
+\\vmware-host\Shared Folders\D\D.Bank\_Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.pdb
+\\vmware-host\Shared Folders\D\D.Bank\_Bank.Test2\Bank.Test2\bin\Debug\Bank.Test2.exe
+\\vmware-host\Shared Folders\D\D.Bank\_Bank.Test2\Bank.Test2\bin\Debug\Bank.Test2.pdb
+\\vmware-host\Shared Folders\D\D.Bank\_Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\D\D.Bank\_Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.Form1.resources
+\\vmware-host\Shared Folders\D\D.Bank\_Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.Properties.Resources.resources
+\\vmware-host\Shared Folders\D\D.Bank\_Bank.Test2\Bank.Test2\obj\x86\Debug\Bank.Test2.csproj.GenerateResource.Cache
