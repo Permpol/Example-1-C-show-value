@@ -1,0 +1,99 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace Bank.Test2
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            string result = "";
+
+            sbyte sb = 0;
+            result = "ค่า MIN : " + sbyte.MinValue.ToString() + Environment.NewLine;
+            result += "ค่า MAX : " + sbyte.MaxValue.ToString() + Environment.NewLine;
+            result += "TYPE : " + sb.GetType().ToString();
+            MessageBox.Show(result.ToString(), "SByte");
+            
+            short sh = 0;
+            result = "ค่า MIN : " + short.MinValue.ToString() + Environment.NewLine;
+            result += "ค่า MAX : " + short.MaxValue.ToString() + Environment.NewLine;
+            result += "TYPE : " + sh.GetType().ToString();
+            MessageBox.Show(result.ToString(), "Short");
+
+            int i = 0;
+            result = "ค่า MIN : " + int.MinValue.ToString() + Environment.NewLine;
+            result += "ค่า MAX : " + int.MaxValue.ToString() + Environment.NewLine;
+            result += "TYPE : " + i.GetType().ToString();
+            MessageBox.Show(result.ToString(), "Integer");
+
+            long l = 0;
+            result = "ค่า MIN : " + long.MinValue.ToString() + Environment.NewLine;
+            result += "ค่า MAX : " + long.MaxValue.ToString() + Environment.NewLine;
+            result += "TYPE : " + l.GetType().ToString();
+            MessageBox.Show(result.ToString(), "long");
+
+            byte by = 0;
+            result = "ค่า MIN : " + byte.MinValue.ToString() + Environment.NewLine;
+            result += "ค่า MAX : " + byte.MaxValue.ToString() + Environment.NewLine;
+            result += "TYPE : " + by.GetType().ToString();
+            MessageBox.Show(result.ToString(), "byte");
+
+            ushort ush = 0;
+            result = "ค่า MIN : " + ushort.MinValue.ToString() + Environment.NewLine;
+            result += "ค่า MAX : " + ushort.MaxValue.ToString() + Environment.NewLine;
+            result += "TYPE : " + ush.GetType().ToString();
+            MessageBox.Show(result.ToString(), "UShort");
+
+            uint ui = 0;
+            result = "ค่า MIN : " + uint.MinValue.ToString() + Environment.NewLine;
+            result += "ค่า MAX : " + uint.MaxValue.ToString() + Environment.NewLine;
+            result += "TYPE : " + ui.GetType().ToString();
+            MessageBox.Show(result.ToString(), "UInteger");
+
+            ulong ul = 0;
+            result = "ค่า MIN : " + ulong.MinValue.ToString() + Environment.NewLine;
+            result += "ค่า MAX : " + ulong.MaxValue.ToString() + Environment.NewLine;
+            result += "TYPE : " + ul.GetType().ToString();
+            MessageBox.Show(result.ToString(), "ULong");
+
+            float fl = 0;
+            result = "ค่า MIN : " + float.MinValue.ToString() + Environment.NewLine;
+            result += "ค่า MAX : " + float.MaxValue.ToString() + Environment.NewLine;
+            result += "TYPE : " + fl.GetType().ToString();
+            MessageBox.Show(result.ToString(), "Single");
+
+            double dou = 0;
+            result = "ค่า MIN : " + double.MinValue.ToString() + Environment.NewLine;
+            result += "ค่า MAX : " + double.MaxValue.ToString() + Environment.NewLine;
+            result += "TYPE : " + dou.GetType().ToString();
+            MessageBox.Show(result.ToString(), "Double");
+
+            decimal de = default(decimal);
+            result = "ค่า MIN : " + decimal.MinValue.ToString() + Environment.NewLine;
+            result += "ค่า MAX : " + decimal.MaxValue.ToString() + Environment.NewLine;
+            result += "TYPE : " + de.GetType().ToString();
+            MessageBox.Show(result.ToString(), "Decimal");
+
+            char ch = '\0';
+            result += "TYPE : " + ch.GetType().ToString();
+            MessageBox.Show(result.ToString(), "Char");
+
+            bool bo = false;
+            result += "TYPE : " + bo.GetType().ToString();
+            MessageBox.Show(result.ToString(), "Boolean");
+
+        }
+    }
+}
