@@ -1,0 +1,9 @@
+D:\D.Bank\Manager_Customer\Manager_Customer\obj\x86\Debug\Manager_Customer.Form1.resources
+D:\D.Bank\Manager_Customer\Manager_Customer\obj\x86\Debug\Manager_Customer.Properties.Resources.resources
+D:\D.Bank\Manager_Customer\Manager_Customer\obj\x86\Debug\Manager_Customer.csproj.GenerateResource.Cache
+D:\D.Bank\Manager_Customer\Manager_Customer\bin\Debug\Manager_Customer.exe
+D:\D.Bank\Manager_Customer\Manager_Customer\bin\Debug\Manager_Customer.pdb
+D:\D.Bank\Manager_Customer\Manager_Customer\obj\x86\Debug\Manager_Customer.exe
+D:\D.Bank\Manager_Customer\Manager_Customer\obj\x86\Debug\Manager_Customer.pdb
+D:\D.Bank\Manager_Customer\Manager_Customer\obj\x86\Debug\Manager_Customer.csprojAssemblyReference.cache
+D:\D.Bank\Manager_Customer\Manager_Customer\obj\x86\Debug\Manager_Customer.csproj.CoreCompileInputs.cache
